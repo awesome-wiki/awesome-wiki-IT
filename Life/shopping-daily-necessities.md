@@ -25,13 +25,19 @@
 
 ### 居家日常
 
+
+
 ### 床上用品
 
 ### 餐具
 
 ### 厨具
 
-### 卫生家
+### 卫生间
+
+### 日用品
+
+- [小米防溅指甲刀](https://item.mi.com/product/11199.html?cfrom=list&selected=1194500003&pClass=c)
 
 ## 参考
 
