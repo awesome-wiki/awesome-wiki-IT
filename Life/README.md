@@ -10,6 +10,7 @@
 - [食品](https://github.com/Michael728/awesome-wiki-for-me/blob/master/Life/shopping-food.md)
 - [药品](https://github.com/Michael728/awesome-wiki-for-me/blob/master/Life/shopping-medicine-health.md)
 - [文化](https://github.com/Michael728/awesome-wiki-for-me/blob/master/Life/shopping-culture.md)
+- [买房](https://github.com/houshanren/hangzhou_house_knowledge)
 
 ## 参考
 
