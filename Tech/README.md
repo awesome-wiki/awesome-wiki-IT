@@ -103,6 +103,11 @@
 
 - [IBM-Java 应用性能调优实践](https://www.ibm.com/developerworks/cn/java/j-lo-performance-tuning-practice/index.html)
 
+## 个人总结
+
+- [Note-Video](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Note-Video) 视频学习笔记
+- [Java-Snippets](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Java-Snippets) 一些代码片段示例
+
 # Go
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
