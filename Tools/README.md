@@ -22,6 +22,26 @@
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
+- [shadowsocks/kcptun](https://github.com/shadowsocks/kcptun)
+- [shadowsocks/simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android)
+- [shadowsocks/kcptun](https://github.com/shadowsocks/kcptun)
+- []
+
+## 开发工具
+
+### VIM
+
+- [axiaoxin/vim-settings](https://github.com/axiaoxin/vim-settings) Vimrc for Pythoners (一个适合主要用于编写Python的Vim配置)
+
+### IDEA
+
+- [guobinhit/intellij-idea-tutorial](https://github.com/guobinhit/intellij-idea-tutorial) 史上最简单的 IntelliJ IDEA 教程
+
+## 开发环境
+
+- [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) A bootstrap script for new Mac
+- [adoyle-h/my-development-tools](https://github.com/adoyle-h/my-development-tools) 我的开发工具箱 [阅读](https://adoyle.me/my-development-tools/)
+- [qianguyihao/Mac](https://github.com/qianguyihao/Mac) Mac系统、Mac软件的操作和使用技巧整理
 
 ## 综合
 

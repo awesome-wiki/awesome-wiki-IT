@@ -23,13 +23,13 @@
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) 萌芽阶段的 Java 核心知识库，[阅读](https://crossoverjie.top/JCSprout/#/?id=introduction)
 - [kdn251/interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md) 英文 软件工程技术面试个人指南，包含了算法等内容
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) 国内互联网大厂的面试题
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 英文 计算机科学学习计划
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 英文 计算机科学学习清单
 - [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) 关于Python的面试题
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) 技术面试最后反问面试官的话
 
 # 综合
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 超级火的清单
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 超级火的清单 ★★★
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 # Linux
@@ -39,8 +39,13 @@
 
 # Python
 
+## 知识点
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
+
+## 实战
+
+- [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) 用diango开发的全新的shadowsocks网络面板
 
 # Java
 
@@ -98,6 +103,7 @@
 - [TyCoding/tumo](https://github.com/TyCoding/tumo) 博客系统
 - [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) 云收藏
 - [b3log/symphony](https://github.com/b3log/symphony) 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
+- [zhyocean/MyBlog](https://github.com/zhyocean/MyBlog) 使用SpringBoot+MyBatis独立进行前后端开发的个人博客网站
 
 ## Java 性能
 
@@ -156,13 +162,18 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) 公开的开放API
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库
+- [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) 神级注释，例如 『佛祖保佑』
+
+# 技术分享
+
+- [shell909090/slides](https://github.com/shell909090/slides) 一些分享的胶片
 
 # 软技能
 
 - [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南
 
 # 书籍
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 很火的一个 repo ★★★
 
 # 高校课件
 
