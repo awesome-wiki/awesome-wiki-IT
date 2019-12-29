@@ -42,20 +42,35 @@
 ## 知识点
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
+- [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
+
+## 电子书
+
+- [https://github.com/eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) Python 进阶
 
 ## 实战
 
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) 用diango开发的全新的shadowsocks网络面板
 
+## 工具
+
+- [encode/apistar](https://github.com/encode/apistar) The Web API toolkit
+
 # Java
 
 ## 知识点
 
-### 系统教程
+### 教程
+
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) 互联网 Java 工程师进阶知识完全扫盲
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [Vamei-Java快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) Java 工程师成神之路
+- [DuHouAn/Java](https://github.com/DuHouAn/Java) 计算机基础☕️ Java👫 面向对象📝 编程题💾 数据库🔨 消息队列📖 系统设计💻 工具🙊 大数据🔧 进阶指南 [阅读](https://duhouan.github.io/Java/#/)
+- [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) ☕️ 老司机在 Java 技术领域的十年积累。 [阅读](https://dunwu.github.io/java-tutorial/)
+- [dunwu/javacore](https://github.com/dunwu/javacore) ☕️ JavaCore 是对 Java 核心技术的经验总结
+- [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- [java-bible](https://github.com/biezhi/java-bible) 技术摘要
 
 ### 线程
 
@@ -64,12 +79,19 @@
 - [田守枝-Java并发编程基本知识介绍](http://www.tianshouzhi.com/api/tutorials/mutithread) 并发编程系列文章
 
 ### Spring Boot
+
 - [官宣-spring boot docs](https://docs.spring.io/spring-boot/docs/) 各个版本的 spring boot 文档，英文
 - [My Sunshine-Spring Boot 标签](https://blog.wuwii.com/tags/Spring-Boot/) 推荐，文章很全面！
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) 博主总结了很全面的示例！
-- [纯洁的微笑 - Spring Boot 中文索引](http://springboot.fun/) 一个 Spring Boot 学习资源的索引网站
+- [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) Spring Boot 学习资源的索引网站 [阅读](http://springboot.fun/)
 - [CSDN-Spring Boot学习笔记](https://blog.csdn.net/gnail_oug/column/info/22146) 一位博主的自己总结，挺全面
 - [关于Spring IOC (DI-依赖注入)你需要知道的一切](https://blog.csdn.net/javazejian/article/details/54561302) 好文章
+- [geekidea/spring-boot-plus](https://github.com/geekidea/spring-boot-plus) 集成spring boot常用开发组件的后台快速开发脚手架，开箱即用 [阅读](https://springboot.plus/)
+- [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架 [阅读](https://www.sofastack.tech/projects/sofa-boot/overview/)
+
+### 数据库连接池
+
+- [alibaba/druid](https://github.com/alibaba/druid) 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
 
 ## 编码规范
 
@@ -83,14 +105,16 @@
 ## 单元测试
 
 - [Java 单测伴侣 - mockito](http://blog.xiayf.cn/2019/06/17/mockito/)
+- [mockito/mockito](https://github.com/mockito/mockito)
 
 ## 任务调度
 
-- XXL-JOB
+- [XXL-JOB](https://github.com/xuxueli/xxl-job) 分布式任务调度平台XXL-JOB [阅读](https://www.xuxueli.com/xxl-job/)
 - Quartz 
 - SchedulerX
 - celery
 - antares
+- [elasticjob/elastic-job-lite](https://github.com/elasticjob/elastic-job-lite)
 
 ## 实战
 
@@ -109,6 +133,10 @@
 
 - [IBM-Java 应用性能调优实践](https://www.ibm.com/developerworks/cn/java/j-lo-performance-tuning-practice/index.html)
 
+## 电子书
+
+- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java 开发者技术书籍大全
+
 ## 个人总结
 
 - [Note-Video](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Note-Video) 视频学习笔记
@@ -117,8 +145,11 @@
 # Go
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
+
 ## 电子书
+
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) 《Go 入门指南》
+- [mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn) 《学习 Go 语言》的第二版 [阅读](https://mikespook.com/learning-go/)
 
 # 数据库
 
@@ -130,13 +161,30 @@
 
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) 中文版 [jobbole/awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 
+# DevOps
+
+- [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) Nginx 教程
+- [taobao/nginx-book](https://github.com/taobao/nginx-book) Nginx开发从入门到精通
+- [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) [阅读](https://yunlzheng.gitbook.io/prometheus-book/)
+
 # 架构
 
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
 
-# 基础
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 正则
+# 基础技能
+
+## Git
+
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) Git
+- [phodal/github](https://github.com/phodal/github) GitHub 漫游指南
+
+## Vim
+
+- [dofy/learn-vim](https://github.com/dofy/learn-vim) Vim 实操教程
+- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) 所需即所获：像 IDE 一样使用 vim
+
+## 正则
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 正则
 
 # 数学
 
@@ -149,6 +197,10 @@
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java 设计模式
 
 # 机器学习/AI
+
+## 资料
+
+- [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
 
 ## 电子书
 
@@ -174,6 +226,7 @@
 
 # 书籍
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 很火的一个 repo ★★★
+- [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 收录比较实用的计算机相关技术书籍
 
 # 高校课件
 
@@ -181,3 +234,7 @@
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划
 - [CoolPhilChen/SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) 上海交通大学课程资料分享，有不少计算机相关课程的资料
 - [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) 中国科学技术大学课程资源
+
+# 公开课
+
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) 💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) [观看【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/av21376839/)
