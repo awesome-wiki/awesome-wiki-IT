@@ -45,6 +45,9 @@
 ## 开发环境
 
 ### Mac
+
+- [Mac 配置教程-日常篇](https://michael728.github.io/2018/12/08/tools-daily-mac/) 我个人的总结
+- [Mac 配置教程-开发篇](https://michael728.github.io/2019/04/14/tools-dev-mac/) 我个人的总结
 - [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) A bootstrap script for new Mac
 - [qianguyihao/Mac](https://github.com/qianguyihao/Mac) Mac系统、Mac软件的操作和使用技巧整理
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)
