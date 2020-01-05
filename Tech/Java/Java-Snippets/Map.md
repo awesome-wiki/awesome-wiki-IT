@@ -38,6 +38,7 @@ Map<String, String> hashMap = new HashMap();
             String value = (String) entry.getValue();
             System.out.println(key + "=" + value);
         }
+        // 当循环中只需要 Map 的主键时，迭代 keySet() 是正确的。但是，当需要主键和取值时，迭代 entrySet() 才是更高效的做法，比先迭代 keySet() 后再去 get 取值性能更佳
 
         // map 大小
         System.out.println("size():" + hashMap.size());
