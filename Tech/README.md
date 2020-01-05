@@ -30,6 +30,7 @@
 # 综合
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 超级火的清单 ★★★
+- [Snailclimb/programmer-advancement](https://github.com/Snailclimb/programmer-advancement) 程序员应该有的一些好习惯！
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 # Linux
@@ -132,6 +133,7 @@
 ## Java 性能
 
 - [IBM-Java 应用性能调优实践](https://www.ibm.com/developerworks/cn/java/j-lo-performance-tuning-practice/index.html)
+- [性能优化常用工具及经验总结](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&mid=2247488458&idx=4&sn=a706fd5512dacdb2e07a1d0f7ccefc69&chksm=fdeb21aaca9ca8bc0a6b76b8b3d4551e31bfb2c1baa41f688ec16a65dc2bc49bbe5f1883e66d&token=1983052188&lang=zh_CN#rd)
 
 ## 电子书
 
@@ -167,6 +169,12 @@
 - [taobao/nginx-book](https://github.com/taobao/nginx-book) Nginx开发从入门到精通
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) [阅读](https://yunlzheng.gitbook.io/prometheus-book/)
 
+# 云计算
+
+## 公开课
+
+- [CNCF × Alibaba 云原生技术公开课](https://edu.aliyun.com/course/1651?spm=5176.10731542.0.0.c77820beQCmetR) 视频教程，介绍了 K8S 中很多基础的概念！值得一看！
+
 # 架构
 
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
@@ -184,6 +192,7 @@
 - [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) 所需即所获：像 IDE 一样使用 vim
 
 ## 正则
+
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) 正则
 
 # 数学
