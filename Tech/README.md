@@ -1,4 +1,6 @@
-主要记录一下技术相关的好资源
+WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人的肩膀上学习』
+
+具体知识点等内容，会分类到各个文件夹中，但是主要还是索引为主
 
 # 技术博客
 
@@ -32,6 +34,12 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) 超级火的清单 ★★★
 - [Snailclimb/programmer-advancement](https://github.com/Snailclimb/programmer-advancement) 程序员应该有的一些好习惯！
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [B站 UP 主-free-coder](https://space.bilibili.com/31273057/video?tid=36&keyword=&order=pubdate) UP 主上传了一些剪短的编程方面的知识点，涉及 Java、操作系统等
+
+
+# 操作系统
+
+- [Michael728-Tech/CS](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/CS) 自己 WIKI 分类的一个文件夹，用来记录一些计算机相关的知识点笔记
 
 # Linux
 
@@ -43,7 +51,7 @@
 ## 知识点
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师
-- [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
+- [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) Python备忘单 很火 [阅读](https://www.pythonsheets.com/)
 
 ## 电子书
 
