@@ -31,6 +31,11 @@
 - [shadowsocks/kcptun](https://github.com/shadowsocks/kcptun)
 - [qinyuhang/ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
 
+### office
+
+- [PPT 美化大师](http://meihua.docer.com/) PPT 工具
+- [islide](https://www.islide.cc/) PPT 设计 动画大师
+
 ## 开发工具
 
 ### VIM
