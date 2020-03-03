@@ -60,6 +60,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 ## 实战
 
 - [Ehco1996/django-sspanel](https://github.com/Ehco1996/django-sspanel) 用diango开发的全新的shadowsocks网络面板
+- [anyant/rssant](https://github.com/anyant/rssant) 蚁阅 - Python 开发的RSS项目
 
 ## 工具
 
@@ -102,6 +103,11 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 
 - [alibaba/druid](https://github.com/alibaba/druid) 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
 
+## 电子书
+
+- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java 开发者技术书籍大全
+- [《On Java 8》中文版，又名《Java编程思想》 第5版](https://github.com/LingCoder/OnJava8) [阅读](https://lingcoder.gitee.io/onjava8/#/)
+
 ## 编码规范
 
 - Google Java Style: https://google.github.io/styleguide/javaguide.html#s1-introduction
@@ -142,10 +148,6 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 
 - [IBM-Java 应用性能调优实践](https://www.ibm.com/developerworks/cn/java/j-lo-performance-tuning-practice/index.html)
 - [性能优化常用工具及经验总结](https://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&mid=2247488458&idx=4&sn=a706fd5512dacdb2e07a1d0f7ccefc69&chksm=fdeb21aaca9ca8bc0a6b76b8b3d4551e31bfb2c1baa41f688ec16a65dc2bc49bbe5f1883e66d&token=1983052188&lang=zh_CN#rd)
-
-## 电子书
-
-- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java 开发者技术书籍大全
 
 ## 个人总结
 
