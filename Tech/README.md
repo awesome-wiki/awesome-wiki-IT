@@ -13,6 +13,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) ★★★ LeetCode JS/Python 题解
 - [apachecn/Interview](https://github.com/apachecn/Interview) Interview = 简历指南 + LeetCode + Kaggle
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode Java 题解
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 手把手撕LeetCode题目 [阅读](https://labuladong.gitbook.io/algo/)
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go#sliding-window) LeetCode Go 语言题解
 - [keon/algorithms](https://github.com/keon/algorithms) 英文 Python
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) 算法，英文
@@ -173,6 +174,12 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 
 - [shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) 中文版 [jobbole/awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 
+# 容器化
+
+## 电子书
+
+- [Kubernetes中文指南](https://jimmysong.io/kubernetes-handbook/)
+
 # DevOps
 
 - [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) Nginx 教程
@@ -183,7 +190,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 
 ## 公开课
 
-- [CNCF × Alibaba 云原生技术公开课](https://edu.aliyun.com/course/1651?spm=5176.10731542.0.0.c77820beQCmetR) 视频教程，介绍了 K8S 中很多基础的概念！值得一看！
+- [CNCF × Alibaba 云原生技术公开课](https://edu.aliyun.com/course/1651?spm=5176.10731542.0.0.c77820beQCmetR) 视频教程，介绍了 K8S 中很多基础的概念！值得一看！[云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative?from=timeline#course)
 
 # 架构
 
@@ -244,6 +251,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 - [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南
 
 # 书籍
+
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 对应[中文版](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 很火的一个 repo ★★★
 - [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 收录比较实用的计算机相关技术书籍
 
