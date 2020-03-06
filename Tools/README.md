@@ -36,6 +36,10 @@
 - [PPT 美化大师](http://meihua.docer.com/) PPT 工具
 - [islide](https://www.islide.cc/) PPT 设计 动画大师
 
+### 图片
+
+- [ScreenToGif](https://www.screentogif.com/?l=zh_cn)
+
 ## 开发工具
 
 ### VIM
