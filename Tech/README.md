@@ -80,8 +80,10 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 - [DuHouAn/Java](https://github.com/DuHouAn/Java) 计算机基础☕️ Java👫 面向对象📝 编程题💾 数据库🔨 消息队列📖 系统设计💻 工具🙊 大数据🔧 进阶指南 [阅读](https://duhouan.github.io/Java/#/)
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) ☕️ 老司机在 Java 技术领域的十年积累。 [阅读](https://dunwu.github.io/java-tutorial/)
 - [dunwu/javacore](https://github.com/dunwu/javacore) ☕️ JavaCore 是对 Java 核心技术的经验总结
+- [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) Java成长路线，但学到不仅仅是Java
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
 - [java-bible](https://github.com/biezhi/java-bible) 技术摘要
+
 
 ### 线程
 
