@@ -101,6 +101,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 - [关于Spring IOC (DI-依赖注入)你需要知道的一切](https://blog.csdn.net/javazejian/article/details/54561302) 好文章
 - [geekidea/spring-boot-plus](https://github.com/geekidea/spring-boot-plus) 集成spring boot常用开发组件的后台快速开发脚手架，开箱即用 [阅读](https://springboot.plus/)
 - [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架 [阅读](https://www.sofastack.tech/projects/sofa-boot/overview/)
+- [yizhiwazi/springboot-socks](https://github.com/yizhiwazi/pringboot-socks) SpringBoot 基础教程 | 从入门到上瘾 | 基于2.0.0.M5制作
 
 ### 数据库连接池
 
@@ -146,6 +147,7 @@ WIKI 的定位，主要记录一下技术相关的好资源索引『站在巨人
 - [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) 云收藏
 - [b3log/symphony](https://github.com/b3log/symphony) 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
 - [zhyocean/MyBlog](https://github.com/zhyocean/MyBlog) 使用SpringBoot+MyBatis独立进行前后端开发的个人博客网站
+- [linlinjava/litemall](https://github.com/linlinjava/litemall) 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 
 ## Java 性能
 
