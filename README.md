@@ -27,6 +27,17 @@
 
 [在线阅读](https://awesome-wiki.github.io/awesome-wik-IT/#/)
 
+## Git
+
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) Git
+- [phodal/github](https://github.com/phodal/github) GitHub 漫游指南
+
+## Vim
+
+- [dofy/learn-vim](https://github.com/dofy/learn-vim) Vim 实操教程
+- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) 所需即所获：像 IDE 一样使用 vim
+
+
 ## 技术博客
 
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) 中文独立博客列表
@@ -103,18 +114,6 @@
 ## 公开课
 
 - [CNCF × Alibaba 云原生技术公开课](https://edu.aliyun.com/course/1651?spm=5176.10731542.0.0.c77820beQCmetR) 视频教程，介绍了 K8S 中很多基础的概念！值得一看！[云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative?from=timeline#course)
-
-# 基础技能
-
-## Git
-
-- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) Git
-- [phodal/github](https://github.com/phodal/github) GitHub 漫游指南
-
-## Vim
-
-- [dofy/learn-vim](https://github.com/dofy/learn-vim) Vim 实操教程
-- [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) 所需即所获：像 IDE 一样使用 vim
 
 ## 正则
 
