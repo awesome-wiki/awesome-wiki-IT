@@ -1,7 +1,7 @@
 <!-- 封面 logo -->
 <p align="center">
     <a href="https://github.com/awesome-wiki/awesome-wiki-IT" target="_blank">
-        <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-IT.png" width=""/>
+        <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-IT-logo.png" width=""/>
     </a>
 </p>
 
