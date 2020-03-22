@@ -25,7 +25,7 @@
 - [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
 <!-- - [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍 -->
 
-[在线阅读](https://awesome-wiki.github.io/awesome-wik-IT/#/)
+[在线阅读](https://awesome-wiki.github.io/awesome-wiki-IT/#/)
 
 ## Git
 
