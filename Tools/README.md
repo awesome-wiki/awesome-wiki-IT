@@ -20,6 +20,10 @@
 - [dbcli/mycli](https://github.com/dbcli/mycli) A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) 代码统计工具
 
+### 数据库
+
+- [XiaoMi/soar](https://github.com/XiaoMi/soar) 小米 DBA 团队出的一个 SQL 优化改写工具，给一条 SQL 进去，它就会输出打分、优化建议等
+
 ## 办公软件
 
 ### ss
@@ -71,3 +75,4 @@
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 对应[中文版](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) 🚀 Awesome list of open source applications for macOS.
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) 一个开源的本地搜索引擎项目
